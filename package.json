@@ -1,0 +1,30 @@
+{
+  "name": "estacion-chisme",
+  "version": "1.0.0",
+  "description": "pagina web de noticias",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TomasFigueredo/EstacionChisme.git"
+  },
+  "keywords": [
+    "noticias",
+    "node",
+    "pagina",
+    "chisme"
+  ],
+  "author": "Tomas Figueredo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TomasFigueredo/EstacionChisme/issues"
+  },
+  "homepage": "https://github.com/TomasFigueredo/EstacionChisme#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "picocolors": "^1.0.0",
+    "react": "^18.2.0"
+  }
+}
